@@ -23,7 +23,7 @@
             android:layout_width="116dp"
             android:layout_height="104dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/agung">
+            android:src="@drawable/yap">
         </ImageView>
 
         <ScrollView

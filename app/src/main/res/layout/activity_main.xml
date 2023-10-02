@@ -87,7 +87,7 @@
                 android:layout_height="98dp"
                 android:layout_alignParentEnd="true"
                 android:layout_marginEnd="24dp"
-                android:src="@drawable/agung" />
+                android:src="@drawable/yap" />
         </RelativeLayout>
 
         <TextView
