@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AgungKocak</string>
+    <string-array name="Kelas">
+        <item>--Pilih--</item>
+        <item>MObile 1</item>
+         <item>MObile 2</item>
+         <item>MObile 3</item>
+    </string-array>
 </resources>
